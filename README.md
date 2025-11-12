@@ -1,68 +1,73 @@
-# Hi, I'm Sravan 👋
-Welcome — I design experiences and code motion. Simple, modern, and a little geeky.
+# Hi — I'm Sravan 👋
+Designer • Vibe Coder • Frontend tinkerer
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=sravan9097&color=0e75b6)](https://github.com/sravan9097)
 
 ---
 
 <p align="center">
-  <img width="120" alt="robot" src="https://raw.githubusercontent.com/abrar-fahad/robot-readme/master/robot.png">
+  <img width="120" alt="vibe-coder" src="https://raw.githubusercontent.com/abrar-fahad/robot-readme/master/robot.png">
 </p>
 
 ## About me
-- 🎨 UX designer who loves crafting clear interfaces and delightful micro-interactions.
-- 🎥 Into video coding — creative coding for motion, shaders, generative visuals, and video tooling.
-- 💻 Learning frontend and tinkering with bits of code to build my own interactive projects.
-- ☕ Open to collaboration on design, motion, and interactive front-end experiments.
+- 🎨 UX designer who loves making interfaces that feel like a vibe.
+- 💻 Learning frontend and writing a little code to bring my prototypes to life.
+- ✨ I blend interaction design, motion, and tiny hacks to craft delightful moments.
+- 🔎 Interests: product design, micro-interactions, accessibility, and creative tooling.
 
 ## Snapshot
-- 🔭 Currently building: interactive demos and motion-driven UI prototypes
-- 🌱 Learning: React, TypeScript, WebGL / GLSL, creative libraries (Three.js, p5.js), and performant CSS animations
-- 🧰 Design & video tools: Figma • After Effects • Premiere Pro • Lottie • FFmpeg
-- 🧠 Dev stack I enjoy: HTML • CSS • JavaScript/TypeScript • React • Vite • WebGL
+- 🔭 Currently building interactive personal projects and a design-system playground.
+- 🌱 Learning: React, TypeScript, animation libraries (Framer Motion), and CSS art.
+- 🧰 Design stack: Figma • FigJam • Prototyping • Framer
+- 🧰 Frontend stack: HTML • CSS • JavaScript • React • Tailwind • Vite
 
 ## GitHub Stats
 <p align="left">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=sravan9097&show_icons=true&theme=react" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravan9097&layout=compact&theme=react" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=sravan9097&show_icons=true&theme=tokyonight" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravan9097&layout=compact&theme=tokyonight" />
 </p>
 
 ## Currently working on
 ```bash
-# workspace-style quick status
-$ cd ~/workspace
-$ git clone git@github.com:sravan9097/interactive-motion.git
-$ cd interactive-motion
-$ npm install
-$ npm run dev      # local demo with three.js + shaders
-# building: prototypes, design system tokens, and video export tools
+# vibe-coder quick status
+$ cd ~/studio
+$ git clone git@github.com:sravan9097/vibe-playground.git
+$ cd vibe-playground
+$ # designing tokens + building tiny interactive components
+$ npm run dev         # preview the prototype
 ```
 
-## Projects (ideas to pin)
-- 🔹 interactive-motion — demos combining UI + shaders (WebGL / Three.js)
-- 🔹 motion-kit — reusable motion tokens & component transitions
-- 🔹 video-toolbox — scripts & small tools for automating video exports (FFmpeg + Node)
+## Projects (pin suggestions)
+- 🔹 vibe-playground — interactive design-system with micro-interactions
+- 🔹 motion-experiments — small animations & motion patterns
+- 🔹 figma-plugins — little tools to speed up workflows
 
 ## Fun / Geeky corner
-I enjoy squeezing small, delightful interactions into UI and turning video ideas into code. Favorite tinkers: GLSL snippets, tiny physics for UI, and extracting moments from footage with FFmpeg.
+- I practice "vibe coding": design first, then shape the code to match the feeling.
+- Favorite tiny challenge: make a button that feels like a soft click using purely CSS and easing.
 
 ASCII vibe:
 <pre>
-   .----.
-  / 0  0 \
- |   ∆    |   <- sensors: creative-mode = ON
-  \  --  /
-   `----'
+   .-""""-.
+  /  .--.  \
+ /  /    \  \
+ |  |    |  |   <- vibe: 0101010
+  \  \__/  /
+   `-.__.-'
 </pre>
 
 ## Contact
 - GitHub: https://github.com/sravan9097
 - Email: hi+github@your-domain.com
-- Portfolio / Dribbble / LinkedIn: replace with your links
+- Figma: (add your profile link)
+- Twitter / Mastodon: (add your handle)
 
 ---
 
 How to use this README
-1. Create a repository named exactly sravan9097.
-2. Add this content to README.md at the repo root.
-3. Customize project names, links, and the contact info to match your real handles.
+1. Create a repository named `sravan9097` (a repo named exactly as your username).
+2. Paste this content into `README.md` at the repository root.
+3. Replace project names, links, and contact handles with your real ones.
+4. Optionally swap badge themes or add a short GIF of a prototype for extra vibe.
+
+Thanks for the prompt — I updated your profile README to reflect you as a UX designer into "vibe coding," focused on frontend learning and maker projects. Next I can: (a) make a minimal single-line variant for a cleaner look, (b) produce a dark-mode-first version, or (c) add an animated demo GIF and tweak wording for a specific project — tell me which and I’ll generate it.
