@@ -5,10 +5,6 @@ Designer • Vibe Coder • Frontend tinkerer
 
 ---
 
-<p align="center">
-  <img width="120" alt="vibe-coder" src="https://raw.githubusercontent.com/abrar-fahad/robot-readme/master/robot.png">
-</p>
-
 ## About me
 - UX designer who loves making interfaces that feel like a vibe.
 - Learning frontend and writing a little code to bring my prototypes to life.
