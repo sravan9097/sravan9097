@@ -1,5 +1,5 @@
 # Hi — I'm Sravan 👋
-Designer • Vibe Coder • Frontend tinkerer
+Designer • Frontend tinkerer
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=sravan9097&color=0e75b6)](https://github.com/sravan9097)
 
